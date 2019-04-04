@@ -190,7 +190,7 @@ class TabBarComponent extends React.Component {
                                         <View style={{width: '20%', marginLeft: 3}}>
                                             <Image style={{}}
                                                    resizeMode="contain"
-                                                   source={require('../../images/free/navigation/setting.png')}/>
+                                                   source={require('../../Images/free/navigation/setting.png')}/>
                                         </View>
                                         <View style={{width: '80%'}}>
                                             <Text style={{color: '#8A8A8A'}}>
@@ -210,7 +210,7 @@ class TabBarComponent extends React.Component {
                                         <View style={{width: '20%', marginLeft: 3}}>
                                             <Image style={{}}
                                                    resizeMode="contain"
-                                                   source={require('../../images/free/navigation/signature.png')}/>
+                                                   source={require('../../Images/free/navigation/signature.png')}/>
                                         </View>
                                         <View style={{width: '80%'}}>
                                             <Text style={{color: '#8A8A8A'}}>
@@ -230,7 +230,7 @@ class TabBarComponent extends React.Component {
                                         <View style={{width: '20%', marginLeft: 3}}>
                                             <Image style={{}}
                                                    resizeMode="contain"
-                                                   source={require('../../images/free/navigation/help.png')}/>
+                                                   source={require('../../Images/free/navigation/help.png')}/>
                                         </View>
                                         <View style={{width: '80%'}}>
                                             <Text style={{color: '#8A8A8A'}}>

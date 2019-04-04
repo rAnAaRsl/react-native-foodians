@@ -38,6 +38,11 @@ class LoginScreen extends Component {
 
     }
 
+    handleLogIn = ()=>{
+        const {navigate} = this.props.navigation;
+        navigate("tab");
+    }
+
     render() {
         return (
             <ImageBackground
